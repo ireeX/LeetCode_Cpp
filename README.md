@@ -2,4 +2,4 @@
 
 | Problem Number                          | Solution                              |
 | --------------------------------------- | ------------------------------------- |
-| 21. Merge Two Sorted List               | [Solution](http://google.com)         |
+| 21. Merge Two Sorted List               | [Solution](https://www.google.com)    |
